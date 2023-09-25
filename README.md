@@ -12,7 +12,7 @@
  <h3> I'm YoonChan, <code>Front-end</code> developer from Korea. </h3>
  <li> 🌱 I'm a novice developer </li>
  <li> 🤔 I'm currently interested in <code>Front-end</code> development </li>
- <li> 🔭 So I'm focusing on learning Flutter,React these days! 😁 </li>
+ <li> 🔭 So I'm focusing on learning Flutter these days! 😁 </li>
  <br>
 </div>
 <br>
