@@ -296,55 +296,46 @@
         </style>
     </defs>
 
-    <!-- H Y U K -->
+    <!-- Y O O N -->
     <svg x="8%" y="8%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
         <rect x="0" y="0" class="swing-top" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top">
             Y
         </text>
     </svg>
-
     <svg x="21%" y="8%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-1">
         <rect x="0" y="0" class="swing-top" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top">
             O
         </text>
     </svg>
-
     <svg x="34%" y="8%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-2">
         <rect x="0" y="0" class="swing-top" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top ">
             O
         </text>
     </svg>
-
     <svg x="47%" y="8%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
         <rect x="0" y="0" class="swing-top" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top ">
             N
         </text>
     </svg>
-
     <svg x="60%" y="8%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-1">
         <rect x="0" y="0"   rx="24" ry="24" />
     </svg>
     <svg x="73%" y="8%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
         <rect x="0" y="0" rx="24" ry="24" />
     </svg>
-    <!-- J I N -->
-    <!-- <svg x="8%" y="35%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-1">
-        <rect x="0" y="0" rx="24" ry="24" />
-    </svg> -->
 
+    <!-- C H A N -->
+    <svg x="8%" y="35%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-1">
+        <rect x="0" y="0" rx="24" ry="24" />
+    </svg>
     <svg x="21%" y="35%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-2">
         <rect x="0" y="0"  rx="24" ry="24" />
-        
     </svg>
     <svg x="34%" y="35%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-1">
-        <rect x="0" y="0"  rx="24" ry="24" />
-            
-    </svg>
-    <svg x="34%" y="35%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
         <rect x="0" y="0" class="swing-top-1" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top-1 ">
             C
@@ -368,6 +359,7 @@
             N
         </text>
     </svg>
+
     <!-- S H I N -->
     <svg x="8%" y="62%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
         <rect x="0" y="0" rx="24" ry="24" />
