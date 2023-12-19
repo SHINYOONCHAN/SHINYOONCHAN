@@ -49,14 +49,14 @@
           font-weight: 500;
           font-size: 14px;
   
-          margin-bottom: 18px;
+          margin-bottom: 3px;
         }
   
         .artist {
           color: #212122;
           font-size: 14px;
   
-          margin-bottom: 3px;
+          margin-bottom: 18px;
         }
   
         @media (prefers-color-scheme: light) {
