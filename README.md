@@ -9,9 +9,9 @@
 
 <div >
  <h2> Hi There!👋 </h2>
- <h3> I'm YoonChan, <code>Front-end</code> developer from Korea. </h3>
+ <h3> I'm YoonChan, <code>Android</code> developer from Korea. </h3>
  <li> 🌱 I'm a junior developer </li>
- <li> 🤔 I'm currently interested in <code>Front-end</code> development </li>
+ <li> 🤔 I'm currently interested in <code>Android</code> development </li>
  <li> 🔭 So I'm focusing on learning Flutter these days! 😁 </li>
  <br>
 </div>
