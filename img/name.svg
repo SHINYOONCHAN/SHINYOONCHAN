@@ -300,28 +300,28 @@
     <svg x="8%" y="8%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
         <rect x="0" y="0" class="swing-top" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top">
-            H
+            Y
         </text>
     </svg>
 
     <svg x="21%" y="8%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-1">
         <rect x="0" y="0" class="swing-top" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top">
-            Y
+            O
         </text>
     </svg>
 
     <svg x="34%" y="8%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-2">
         <rect x="0" y="0" class="swing-top" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top ">
-            U
+            O
         </text>
     </svg>
 
     <svg x="47%" y="8%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
         <rect x="0" y="0" class="swing-top" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top ">
-            K
+            N
         </text>
     </svg>
 
@@ -342,18 +342,18 @@
     </svg>
     <svg x="34%" y="35%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-1">
         <rect x="0" y="0"  rx="24" ry="24" />
-        
+            C
     </svg>
     <svg x="47%" y="35%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
         <rect x="0" y="0" class="swing-top-1" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top-1 ">
-            J
+            H
         </text>
     </svg>
     <svg x="60%" y="35%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-1">
         <rect x="0" y="0" class="swing-top-1" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top-1 ">
-            I
+            A
         </text>
     </svg>
     <svg x="73%" y="35%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-2">
@@ -362,14 +362,14 @@
             N
         </text>
     </svg>
-    <!-- C H O I -->
+    <!-- S H I N -->
     <svg x="8%" y="62%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
         <rect x="0" y="0" rx="24" ry="24" />
     </svg>
     <svg x="21%" y="62%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-2">
         <rect x="0" y="0" class="swing-top-2" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top-2">
-            C
+            S
         </text>
     </svg>
     <svg x="34%" y="62%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
@@ -381,13 +381,13 @@
     <svg x="47%" y="62%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-1">
         <rect x="0" y="0" class="swing-top-2" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top-2">
-            O
+            I
         </text>
     </svg>
     <svg x="60%" y="62%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top-2">
         <rect x="0" y="0" class="swing-top-2" rx="24" ry="24" />
         <text x="50%" y="50%" class="swing-top-2">
-            I
+            N
         </text>
     </svg>
     <svg x="73%" y="62%" width="24%" height="24%" viewBox="0 0 98 98" class="bg-top">
