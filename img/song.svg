@@ -49,14 +49,14 @@
           font-weight: 500;
           font-size: 14px;
   
-          margin-bottom: 3px;
+          margin-bottom: 18px;
         }
   
         .artist {
           color: #212122;
           font-size: 14px;
   
-          margin-bottom: 18px;
+          margin-bottom: 3px;
         }
   
         @media (prefers-color-scheme: light) {
@@ -114,8 +114,8 @@
 
           <a href="#" target="_blank" class="cover-link"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/song.jpg" width="40" height="40" /></a>
           <div class="text-container">
-            <div class="song">Seong Si-kyung, Park Hyo-shin, Lee Seok-hoon, Seo In-guk, VIXX</div>
-            <div class="artist">Because it's Christmas</div> 
+            <div class="song">Because it's Christmas</div> 
+            <div class="artist">Seong Si-kyung, Park Hyo-shin, Lee Seok-hoon, Seo In-guk, VIXX</div>
             <div id='bars'><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div></div>
           </div>
 
