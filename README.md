@@ -1,6 +1,10 @@
+<style>
+  .icon {
+    margin-right: 20px;
+  }
+</style>
+
 <a href="#" target="_blank"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/name.svg" width="50%"    align="left"/></a>
-
-
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Yoon%20Chan%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
