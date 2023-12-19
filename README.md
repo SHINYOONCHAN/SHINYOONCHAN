@@ -9,13 +9,13 @@
  <br>
 </div>
 <br>
-<div align=center>
+<div align=left>
 
 ![spotify-github-profile](/img/song.svg)
 </div>
 <br>
 
-<div align=center>
+<div align=left>
 
 📊 **This Week I Spent My Time On** 
 
