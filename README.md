@@ -3,7 +3,7 @@
 
 
 <!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Hyuk%20Jin%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Yoon%20Chan%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 -->
 <!-- ## <img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> --> 
 
@@ -71,7 +71,7 @@ YAML                     6 mins              ███░░░░░░░░�
 JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 🔥 Editors: 
-IntelliJ                 53 mins             █████████████████████████   100.00 % 
+Visual Studio Code       53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      53 mins             █████████████████████████   100.00 % 
