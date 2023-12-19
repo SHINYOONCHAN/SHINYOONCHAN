@@ -21,7 +21,7 @@
   <img src="https://spotify-readme-duxpiex.vercel.app/api?&scan=true&rainbow=false" width="50%" alt="Current Spotify Song">
 </a> -->
 <!-- <a href="#" target="_blank"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/song.svg" width="50%"    align="left"/></a> -->
-![spotify-github-profile](/img/natemoo-re.svg)
+![spotify-github-profile](/img/song.svg)
 </div>
 <br>
 
