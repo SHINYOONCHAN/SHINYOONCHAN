@@ -12,7 +12,6 @@
 <div align=center>
 
 ![spotify-github-profile](/img/song.svg)
-
 </div>
 <br>
 
