@@ -18,8 +18,8 @@
       }
 
       .cover-link {
-      width: 204px;
-      height: 204px;
+      width: 120px;
+      height: 120px;
       }
 
       .cover {
