@@ -1,5 +1,5 @@
 <style>
-  .icon {
+  .icon-link {
     margin-right: 20px;
   }
 </style>
@@ -92,9 +92,9 @@ Mac                      53 mins             ███████████�
 <div align=center>
 
  <h2> 🛠 Tech Stacks</h2>
- <a href="#" target="_blank"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/flutter.svg" width="40" height="40" /></a>
- <a href="#" target="_blank"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/python.svg" width="40" height="40" /></a>
- <a href="#" target="_blank"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/mysql.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank" class="icon-link"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/flutter.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank" class="icon-link"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/python.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank" class="icon-link"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/mysql.svg" width="40" height="40" /></a>
  <br>
  <br>
  <h2> 🛠 Tools</h2>
