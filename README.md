@@ -1,6 +1,6 @@
 <style>
   .icon-link {
-    margin-right: 50px;
+    margin-right: 100px;
   }
 </style>
 
