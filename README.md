@@ -37,7 +37,7 @@ Windows                  2 hours             ███████████�
 
  </div>
  
-<div align=center>
+<div align=left>
 
  <h2> 🛠 Tech Stacks</h2>
  <a href="#" target="_blank" class="icon-link"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/flutter.svg" width="40" height="40" /></a>
