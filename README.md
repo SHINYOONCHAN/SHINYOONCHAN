@@ -6,11 +6,6 @@
 
 <a href="#" target="_blank"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/name.svg" width="50%"    align="left"/></a>
 
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Yoon%20Chan%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
--->
-<!-- ## <img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> --> 
-
 <div >
  <h2> Hi There!👋 </h2>
  <h3> I'm YoonChan, <code>Android</code> developer from Korea. </h3>
@@ -22,7 +17,6 @@
 <br>
 <div align=center>
  
-<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300%&count=3) -->
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&redirect=true">
   <img src="https://spotify-readme-duxpiex.vercel.app/api?&scan=true&rainbow=false" width="50%" alt="Current Spotify Song">
 </a>
@@ -31,7 +25,6 @@
 
 <div align=center>
 
-<!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
 ```text
@@ -74,21 +67,9 @@ Mac                      53 mins             ███████████�
 
 
  Last Updated on 19/12/2023 14:34:20 KST
-<!--END_SECTION:waka-->
 
  </div>
  
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
-
-<!-- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&redirect=true)
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300&count=7)
--->
-
- 
-
-
 <div align=center>
 
  <h2> 🛠 Tech Stacks</h2>
@@ -102,22 +83,3 @@ Mac                      53 mins             ███████████�
  <img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/intellij-idea.svg" width="40" height="40" />
  <img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/figma.svg" width="40" height="40" />
 </div>
-
-<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&&height=200&section=footer) -->
-
-
-
-<!--
-**SHINYOONCHAN/SHINYOONCHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
