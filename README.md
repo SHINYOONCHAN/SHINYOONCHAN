@@ -82,6 +82,8 @@ Mac                      53 mins             ███████████�
  <br>
  <h2> 🛠 Tools</h2>
  <img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/visual-studio-code.svg" width="40" height="40" />
+ &nbsp;&nbsp;&nbsp;
  <img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/intellij-idea.svg" width="40" height="40" />
+ &nbsp;&nbsp;&nbsp;
  <img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/figma.svg" width="40" height="40" />
 </div>
