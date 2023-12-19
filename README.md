@@ -1,4 +1,4 @@
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/name.svg" width="50%"    align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/name.svg" width="50%"    align="left"/></a>
 
 
 
