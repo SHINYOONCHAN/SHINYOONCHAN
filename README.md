@@ -1,9 +1,3 @@
-<style>
-  .icon-link {
-    margin-right: 100px;
-  }
-</style>
-
 <a href="#" target="_blank"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/name.svg" width="50%"    align="left"/></a>
 
 <div >
