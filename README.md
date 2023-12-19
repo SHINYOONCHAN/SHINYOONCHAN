@@ -17,10 +17,6 @@
 <br>
 <div align=center>
  
-<!-- <a href="https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&redirect=true">
-  <img src="https://spotify-readme-duxpiex.vercel.app/api?&scan=true&rainbow=false" width="50%" alt="Current Spotify Song">
-</a> -->
-<!-- <a href="#" target="_blank"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/song.svg" width="50%"    align="left"/></a> -->
 ![spotify-github-profile](/img/song.svg)
 </div>
 <br>
