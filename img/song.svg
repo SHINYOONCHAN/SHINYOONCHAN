@@ -16,7 +16,7 @@
         }
   
         .cover-link {
-          height: 64px;
+          height: 120px;
         }
   
         .cover {
@@ -112,7 +112,7 @@
       </style>
       <div xmlns="http://www.w3.org/1999/xhtml" class="container">
 
-          <a href="#" target="_blank" class="cover-link"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/song.jpg" width="40" height="40" /></a>
+          <a href="#" target="_blank" class="cover-link"><img src="https://github.com/SHINYOONCHAN/SHINYOONCHAN/blob/main/img/song.jpg" width="120" height="120" /></a>
           <div class="text-container">
             <div class="song">Because it's Christmas</div> 
             <div class="artist">Seong Si-kyung, Park Hyo-shin, Lee Seok-hoon, Seo In-guk, VIXX</div>
